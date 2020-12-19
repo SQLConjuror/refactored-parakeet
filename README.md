@@ -7,3 +7,5 @@ In this course, you will learn how to use GitHub successfully
 ### The basics
 - Sample 1
 - Sample 2
+
+Change made in sample branch
